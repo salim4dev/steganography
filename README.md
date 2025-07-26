@@ -19,7 +19,7 @@ Cette application permet de cacher une image à l’intérieur d’une autre ima
 - **Extraire une image cachée** en fournissant le mot de passe.
 
 ## Aperçu de l'application
-![Page d'accueil](accueil.png)
+![Page d'accueil](accueil.PNG)
 
 ## Prérequis
 - Python 3.x
