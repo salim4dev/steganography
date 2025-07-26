@@ -18,6 +18,9 @@ Cette application permet de cacher une image à l’intérieur d’une autre ima
 - **Cacher une image** dans une autre avec un mot de passe.
 - **Extraire une image cachée** en fournissant le mot de passe.
 
+## Aperçu de l'application
+![Page d'accueil](accueil.png)
+
 ## Prérequis
 - Python 3.x
 - Liste des dépendances : `customtkinter`, `tkinterdnd2`, `Pillow`, `cryptography`
@@ -28,6 +31,3 @@ Clonez ce projet et installez les dépendances via le fichier `requirements.txt`
 pip install -r requirements.txt
 
 ---
-## Aperçu de l'application
-
-![Page d'accueil](accueil.png)
